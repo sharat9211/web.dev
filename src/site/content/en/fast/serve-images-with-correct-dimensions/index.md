@@ -112,6 +112,8 @@ Scale image to fit within "200px wide by 100px tall":
 convert flower.jpg -resize 200x100 flower_small.jpg
 ```
 
+Note: On Windows machines use the command `magick convert` instead of `convert`.
+
 If you'll be resizing many images, you may find it more convenient to use a
 script or service to automate the process. You can learn more about this in the
 Responsive Images guide.

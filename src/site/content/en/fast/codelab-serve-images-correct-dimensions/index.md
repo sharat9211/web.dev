@@ -108,6 +108,8 @@ pixels wide. In the terminal type:
 convert flower_photo.jpg -resize 960x flower_photo.jpg
 ```
 
+Note: On Windows machines use the command `magick convert` instead of `convert`.
+
 {% Aside %}
 `960x` is not a typo - it specifies a width, but not a height. The
 image height will be scaled in proportion to the width. This is a handy trick

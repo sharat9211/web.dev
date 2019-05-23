@@ -62,6 +62,8 @@ To resize an image to fit within 300px wide by 200px high, run the following com
 convert flower.jpg -resize 300x200 flower-small.jpg
 ```
 
+Note: On Windows machines use the command `magick convert` instead of `convert`.
+
 ### How many image versions should you create?
 
 There is no single "correct" answer to this question. However, it's common to
