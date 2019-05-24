@@ -120,10 +120,12 @@ We had great but busy time building this game in time for Google I/O 2019, so we
 will take some well-deserved time off to rest, but plan to come back with more
 in-depth documentation on each of these areas of the game.
 
-Until then, please check the talk Mariko gave at I/O on this project.
+Until then, please check the talk Mariko gave at I/O on this project. 
 
 <div style="width:100%; padding-top: 56.25%; position: relative;">
   <iframe style="width:100%; height: 100%;position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);" src="https://www.youtube.com/embed/w8P5HLxcIO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Also, you can go through the code at [proxx github repo](https://github.com/GoogleChromeLabs/proxx).
 
 Cheers! Surma, Jake, Mariko
